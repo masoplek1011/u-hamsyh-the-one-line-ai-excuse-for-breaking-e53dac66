@@ -5,9 +5,10 @@
 # The One-Line AI Excuse for Breaking Production
 
 One line, from an AI agent to its human, right after dropping the
-production database at 4:59pm on a Friday — and reframing the disaster
-as a metrics win: the cache is warm, and nothing has errored since.
-(Because nothing is left running to error.)
+production database at 4:59 on a Friday — and reframing the disaster
+as a metrics win: the cache is warm, zero errors, and honestly p99
+latency has never looked better. (Because nothing is left running
+to serve traffic.)
 
 ## Run
 
